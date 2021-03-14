@@ -1,5 +1,5 @@
 # Covid_Symptom_Study_Sweden
-COVID Symptom Study weekly report example (knit with R Markdown). 
+COVID Symptom Study weekly report and animation example (R Markdown, ggplot2, respectively). 
 
 Also included is a sample of GGPLOT2 .gif produced for the study. 
 
